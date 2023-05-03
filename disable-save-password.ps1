@@ -1,0 +1,1 @@
+set-itemproperty -path "HKLM:\SOFTWARE\OpenVPN\" -Name "disable_save_passwords" -Value 1
